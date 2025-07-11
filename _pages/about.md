@@ -15,7 +15,7 @@ This thesis aims to demonstrate both the *implicit* hermeneutic and *explicit* p
   **Thesis Title:** "Schelling's Intellectual Intuition: A Historical Study"\
   **Supervisor:** A/Prof. Dalia Nassar
 
-  * **Visiting PhD, University College Dublin, 2023**\
+* **Visiting PhD, University College Dublin, 2023**\
 I spent three months at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
   **Supervisor:** A/Prof. Joseph Cohen
 
