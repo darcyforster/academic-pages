@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Darcy Forster"
   bio              : "PhD Candidate"
-  location         : "Australia"
   employer         : "University of Sydney"
+  location         : "Australia"
   uri              : # URL
   email            : "darcy.forster@proton.me" 
 
