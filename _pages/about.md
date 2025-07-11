@@ -11,7 +11,7 @@ I am a PhD candidate at the University of Sydney currently completing a thesis i
 Education:
 ======
 * **PhD, University of Sydney, 2025 (expected)**\
-This thesis aims to determine the significance of intellectual intuition by charting its evolution throughout Schelling's corpus.\
+This thesis aims to determine the significance of intellectual intuition by charting its evolution across Schelling's corpus.\
   **Thesis Title:** "Schelling's Intellectual Intuition: A Historical Study"\
   **Supervisor:** A/Prof. Dalia Nassar
 
