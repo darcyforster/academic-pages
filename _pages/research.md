@@ -12,8 +12,8 @@ permalink: /research/
 * “Principle Minimalism and the Great Chain of Being: Missing links in the development of early modern experimental philosophy”
 
 **Talks**
-* “Some Thoughts on Organicism and Technology”, Australasian Association of Philosophy, 2024
-* Panel on Schelling’s Method of Construction, Australasian Society for Continental Philosophy, 2023
-* “Schelling and the Philosophical Canon”, Expanding the Canon: History of Philosophy Workshop, The University of Sydney, 2023
-* “Excerpts from Clara und Die Weltalter”, Schelling’s Naturphilosophie und ihre Aktualität, Universität Tübingen, 2023
-* “The Early Schelling and the Unconditioned”, North American Schelling Society, 2022
+* “Some Thoughts on Organicism and Technology”, *Australasian Association of Philosophy*, 2024
+* Panel on Schelling’s Method of Construction, *Australasian Society for Continental Philosophy*, 2023
+* “Schelling and the Philosophical Canon”, *Expanding the Canon: History of Philosophy Workshop*, The University of Sydney, 2023
+* “Excerpts from Clara und Die Weltalter”, *Schelling’s Naturphilosophie und ihre Aktualität*, Universität Tübingen, 2023
+* “The Early Schelling and the Unconditioned”, *North American Schelling Society*, 2022
