@@ -3,6 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+**Australian Catholic University**
+* "Theories of Human Nature", School of Philosophy, 2025
+
 **La Trobe University**
 * "Ethics", Department of Philosophy, Media, and Politics, 2025
 * “Questions that Matter”, Department of Philosophy, Media, and Politics, 2024–25
