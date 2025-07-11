@@ -19,7 +19,7 @@ This thesis aims to determine the significance of intellectual intuition by char
 I spent three months at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
   **Supervisor:** A/Prof. Joseph Cohen
 
-* **BA(Hons), Swinburne University, Melbourne 2019**\
+* **BA(Hons), Swinburne University, Melbourne, 2019**\
 I graduated with first class honours majoring in philosophy with a minor in cinema studies.\
   **Thesis Title:** "Mapping the Psyche-Civilisation Relationship"\
   **Supervisor:** A/Prof. Arran Gare
