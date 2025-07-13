@@ -16,7 +16,7 @@ This thesis aims to determine the significance of intellectual intuition by char
   **Supervisor:** A/Prof. Dalia Nassar
 
 * **Visiting PhD, University College Dublin, 2023**\
-I spent three months at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
+I spent a semester at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
   **Supervisor:** A/Prof. Joseph Cohen
 
 * **BA(Hons), Swinburne University, Melbourne, 2019**\
