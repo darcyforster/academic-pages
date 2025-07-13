@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the University of Sydney currently completing a thesis in the history of philosophy concerning the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling. My other areas of interest include process philosophy, the science of psychedelics, and philosophy of technology.
+I am a PhD candidate at the University of Sydney currently completing a thesis in the history of philosophy regarding the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling. My other areas of interest include process philosophy, the science of psychedelics, and philosophy of technology.
 
 Education:
 ======
