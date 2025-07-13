@@ -5,7 +5,7 @@ permalink: /research/
 
 **Publications:**
 * “Huxley via Schelling: Toward an aesthetic approach to psychedelic experience”, *Cosmos and History*, 17,3, (2021): 283–298.
-* “Mapping the Psyche-Civilization Relationship: How overcoming conceptual dualisms can help us comprehend the trajectory of the human race”, *Journal of Analytical Psychology*, vol. 66,4 (2021): 949-968.
+* “Mapping the Psyche-Civilization Relationship: How overcoming conceptual dualisms can help us comprehend the trajectory of the human race”, *Journal of Analytical Psychology*, vol. 66,4, (2021): 949-968.
 
 **Under Review:**
 * “‘The World Lost in our Intuition:’ A Metaphysical Reappraisal of the Ego-Dissolution Hypothesis”
