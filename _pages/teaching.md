@@ -14,6 +14,6 @@ permalink: /teaching/
 * “Critical Thinking”, School of Philosophical, Historical, and Indigenous Studies, 2024–25
 
 **University of Sydney:**
-* “Thinking Critically” Discipline of Philosophy, 2022
+* “Thinking Critically”, Discipline of Philosophy, 2022
 * “The Apocalypse in Science and Culture”, School of Physics, 2021–22
 * “Self, Society, Knowldge”, Discipline of Philosophy, 2021
