@@ -16,5 +16,5 @@ permalink: /research/
 * “The Early Schelling and the Unconditioned”, *North American Schelling Society*, 2022
 
 **Works in Progress:**
-* “‘The World Lost in our Intuition:’ A Metaphysical Reappraisal of the Ego-Dissolution Hypothesis”
+* “Two Early Accounts of Intellectual Intuition in Schelling’s Early Philosophy”
 * “Principle Minimalism and the Great Chain of Being: Missing links in the development of early modern experimental philosophy”
