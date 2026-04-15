@@ -4,8 +4,8 @@ permalink: /teaching/
 ---
 
 **Australian Catholic University:**
-* "The Origins of Science and Contemporary Challenges", 2026
-* “Theories of Human Nature”, School of Philosophy, 2025
+* "The Origins of Science and Contemporary Challenges", School of Philosophy and Theology 2026
+* “Theories of Human Nature”, School of Philosophy and Theology, 2025
 
 **La Trobe University:**
 * “Ethics”, Department of Philosophy, Media, and Politics, 2025
