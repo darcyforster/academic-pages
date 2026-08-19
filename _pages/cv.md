@@ -32,4 +32,4 @@ Selected Academic Distinctions
 
 Publications
 ======
-[See Research Page](https://darcyforster.com/research/)
+See [Research](https://darcyforster.com/research/)
