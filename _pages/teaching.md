@@ -2,7 +2,25 @@
 title: "Teaching"
 permalink: /teaching/
 ---
+Main Areas of Teaching Competence
+======
+** Graduate Level:**
+* German Romanticism and Idealism
+* Kant
+* Early Modern Philosophy
+* Phenomenology
 
+** Undergraduate Level:**
+* Introduction to Philosophy (contemporary or historical approaches)
+* The Great Texts
+* Aesthetics
+* Ethics
+* Philosophy of Science
+* Critical Thinking
+* Social Philosophy
+
+Experience
+======
 **Australian Catholic University:**
 * "The Origins of Science and Contemporary Challenges", School of Philosophy and Theology 2026
 * “Theories of Human Nature”, School of Philosophy and Theology, 2025
@@ -17,4 +35,4 @@ permalink: /teaching/
 **University of Sydney:**
 * “Thinking Critically”, Discipline of Philosophy, 2022
 * “The Apocalypse in Science and Culture”, School of Physics, 2021–22
-* “Self, Society, Knowldge”, Discipline of Philosophy, 2021
+* “Self, Society, Knowledge”, Discipline of Philosophy, 2021
