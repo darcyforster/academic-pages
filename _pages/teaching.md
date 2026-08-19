@@ -4,13 +4,13 @@ permalink: /teaching/
 ---
 Main Areas of Teaching Competence
 ======
-** Graduate Level:**
+**Graduate Level:**
 * German Romanticism and Idealism
 * Kant
 * Early Modern Philosophy
 * Phenomenology
 
-** Undergraduate Level:**
+**Undergraduate Level:**
 * Introduction to Philosophy (contemporary or historical approaches)
 * The Great Texts
 * Aesthetics
