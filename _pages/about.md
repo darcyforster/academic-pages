@@ -6,20 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the University of Sydney completing a thesis in the history of philosophy regarding the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling. My other areas of interest include process philosophy, the science of psychedelics, and philosophy of technology.
+I am a PhD candidate at the University of Sydney completing a thesis in the history of philosophy regarding the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling.
 
-Education:
+Areas of Interest:
 ======
-* **PhD, University of Sydney, 2026 (expected)**\
-This thesis aims to determine the significance of intellectual intuition by charting its evolution across Schelling's corpus.\
-  **Thesis Title:** "Schelling's Intellectual Intuition: A Historical Study"\
-  **Supervisor:** Dalia Nassar
-
-* **Visiting PhD, University College Dublin, 2023**\
-I spent a semester at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
-  **Supervisor:** Joseph Cohen
-
-* **BA(Hons), Swinburne University, Melbourne, 2019**\
-I graduated with first class honours majoring in philosophy with a minor in cinema studies.\
-  **Thesis Title:** "Mapping the Psyche-Civilisation Relationship"\
-  **Supervisor:** Arran Gare
+* The history of philosophy, including the history of ideas with a focus on nature, technology, and epistemology.
+* Philosophy of technology
+* Process philosophy
+* Philosophy of psychedelics
