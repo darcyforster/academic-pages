@@ -8,16 +8,16 @@ Main Areas of Teaching Competence
 * German Romanticism and Idealism
 * Kant
 * Early Modern Philosophy
-* Phenomenology
 
 **Undergraduate Level:**
 * Introduction to Philosophy (contemporary or historical approaches)
-* The Great Texts
-* Aesthetics
+* Phenomenology
+* Metaphysics
 * Ethics
 * Philosophy of Science
 * Critical Thinking
 * Social Philosophy
+* Aesthetics
 
 Experience
 ======
