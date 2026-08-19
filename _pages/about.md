@@ -13,13 +13,13 @@ Education:
 * **PhD, University of Sydney, 2026 (expected)**\
 This thesis aims to determine the significance of intellectual intuition by charting its evolution across Schelling's corpus.\
   **Thesis Title:** "Schelling's Intellectual Intuition: A Historical Study"\
-  **Supervisor:** A/Prof. Dalia Nassar
+  **Supervisor:** Dalia Nassar
 
 * **Visiting PhD, University College Dublin, 2023**\
 I spent a semester at University College Dublin on a research exchange funded by the Erasmus+ International Credit Mobility scheme.\
-  **Supervisor:** A/Prof. Joseph Cohen
+  **Supervisor:** Joseph Cohen
 
 * **BA(Hons), Swinburne University, Melbourne, 2019**\
 I graduated with first class honours majoring in philosophy with a minor in cinema studies.\
   **Thesis Title:** "Mapping the Psyche-Civilisation Relationship"\
-  **Supervisor:** A/Prof. Arran Gare
+  **Supervisor:** Arran Gare
