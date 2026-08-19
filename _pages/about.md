@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the University of Sydney completing a thesis in the history of philosophy regarding the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling.
+I am a PhD candidate at the University of Sydney currently completing a thesis on the role of "intellectual intuition" in the work of 19th century German philosopher Friedrich Schelling. See [Research](https://darcyforster.com/research/) to read the abstract.
 
 Areas of Interest:
 ======
