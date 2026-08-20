@@ -10,7 +10,8 @@ I am a PhD candidate at the University of Sydney currently completing a thesis o
 
 Areas of Interest:
 ======
-* The history of philosophy, including the history of ideas with a focus on nature, technology, and epistemology.
+* The history of philosophy, including the history of ideas
+* *Naturphilosophie* and environmental philosophy
 * Philosophy of technology
 * Process philosophy
 * Philosophy of psychedelics
