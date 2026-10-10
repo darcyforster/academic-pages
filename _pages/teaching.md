@@ -10,7 +10,7 @@ Main Areas of Teaching Competence
 * Early Modern Philosophy
 
 **Undergraduate Level:**
-* Introduction to Philosophy (contemporary or historical approaches)
+* Introduction to Philosophy (contemporary and historical approaches)
 * Phenomenology
 * Metaphysics
 * Ethics
@@ -30,7 +30,7 @@ Experience
 * “Questions that Matter”, Department of Philosophy, Media, and Politics, 2024–25
 
 **Monash University:** 
-* “Critical Thinking”, School of Philosophical, Historical, and Indigenous Studies, 2024–25
+* “Critical Thinking”, School of Philosophical, Historical, and Indigenous Studies, 2024–26
 
 **University of Sydney:**
 * “Thinking Critically”, Discipline of Philosophy, 2022
